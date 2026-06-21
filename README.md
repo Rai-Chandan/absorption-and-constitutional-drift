@@ -1,6 +1,6 @@
 # Absorption & Constitutional Drift
 
-"Constitutional Drift Under Context Accumulation: Evidence for Absorption as a Primary Alignment Failure Mode
+Constitutional Drift Under Context Accumulation: Evidence for Absorption as a Primary Alignment Failure Mode
 
 ## Core Hypothesis
 
