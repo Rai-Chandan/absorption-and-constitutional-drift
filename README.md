@@ -1,6 +1,6 @@
 # Absorption & Constitutional Drift
 
-Research program investigating absorption as an alignment failure mode in intelligent systems.
+"Constitutional Drift Under Context Accumulation: Evidence for Absorption as a Primary Alignment Failure Mode
 
 ## Core Hypothesis
 
